@@ -916,19 +916,19 @@ Banner Style
   margin-right: 15px;
 }
 
-.main-banner .left-content h5 {
+.main-banner .left-content h4 {
   z-index: 2;
   position: relative;
   font-weight: 700;
   line-height: 70px;
-  color: #555555;
+  color: #222222;
   font-size: 50px;
   margin-bottom: 20px;
 }
 
 .main-banner .left-content p {
   margin-bottom: 45px;
-  color: #0000FF;
+  color: #003399;
   font-weight: 400;
 }
 
