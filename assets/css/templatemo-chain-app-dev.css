@@ -2217,3 +2217,18 @@ responsive
     padding: 30px;
   }
 }
+.gradient-button {
+    background: linear-gradient(to right, #4CAF50, #8BC34A);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.gradient-button a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.gradient-button a:hover {
+    opacity: 0.8;
+}
